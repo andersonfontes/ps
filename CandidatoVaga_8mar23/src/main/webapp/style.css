@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
 body {
-	text-align: center;
+	
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
 	font-weight:400;
@@ -24,5 +24,16 @@ h1 {
 	font-weight:400;
 	color: #ffffff;
 	border-radius:5px;
+	border: 0;
+	cursor:pointer;
 		
 }	
+
+.body2 {
+	
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+	font-weight:400;
+}
+	
+	
