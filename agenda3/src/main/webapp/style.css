@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+.Botao1{
+	background-color: lightblue;
+	color: white;
+	border-radius: 5px;
+	padding: 5px 10px 5px 10px;
+	font-family: verdana;
+	font-size: 12;
+	
+}
+
+h1{
+	font-family: verdana;
+	font-weight: 700;
+	font-size:20;
+	color: darkblue;
+	
+}
+
+#tabela{
+	font-family: verdana;
+	font-size: 12;
+	background-color: lightblue;
+	padding: 10px;
+	text-align: left;
+	border: 1px solid gray;
+	
+}
