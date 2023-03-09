@@ -1,0 +1,25 @@
+link:
+somente a fina:
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+
+as duas:
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+
+@import:
+somente a fina:
+ <style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+</style>
+
+as duas:
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+</style>
+
+
+css rules for specific family:
+font-family: 'Open Sans', sans-serif;
